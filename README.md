@@ -4,7 +4,7 @@
 
 >Cooking is the process of preparing food by applying heat. It's a fundamental human activity that allows us to transform raw ingredients into delicious and nutritious meals. There are countless ways to cook things, depending on the ingredients, desired outcome, and cultural influences. Below, a set of tasty recipes will be explained with the aim of learning to cook in a fun and fast way. We will learn to cook sushi, Caesar salad and hot dogs quickly and dynamically, I hope you like the recipes ;)
 
-![screenshot](/Screenshot_1.png)
+![screenshot](/Screenshot_2.png)
 
 ## Built With
 
@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://jairosalgar15.github.io/Working-with-Text)
+[Live Demo Link](http://127.0.0.1:5500/pages/about.html)
 
 ## Getting Started
 
@@ -23,14 +23,14 @@
 
 👤 **Jairo Salgar**
 
-- GitHub: [jairosalgar15](https://jairosalgar15.github.io/Working-with-Text)
+- GitHub: [jairosalgar15](https://jairosalgar15.github.io/Links-and-Images)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://jairosalgar15.github.io/Working-with-Text).
+Feel free to check the [issues page](https://github.com/jairosalgar15/Links-and-Images/issues).
 
 ## Show your support
 
